@@ -7,17 +7,17 @@
   margin-bottom: 0;
   padding-bottom: 20;
   margin-top: 3rem; /* Moves the text down an inch (approximate, adjust as needed) */
-  margin-left: -15rem; /* Moves the text to the left */
+  left: 30px; /* Moves the text to the left */
 }
 .name {
-  transform: translate(-38px, -5px); /* Moves left by 20px and down by 20px */
+  transform: translate(-130px, -5px); /* Moves left by 20px and down by 20px */
 }
 
 .title {
   font-size: 50px;
   position: absolute;
-  top: 40px; /* Adjust as needed for vertical position */
-  left: 20px; /* Adjust as needed for horizontal position */
+  top: 85px; /* Adjust as needed for vertical position */
+  margin-left: 30px;
 }
 .title {
   transform: translate(
